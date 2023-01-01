@@ -43,7 +43,7 @@ My name is Ejiro and I am a Web/Mobile Developer. I have a passion for creating 
 
  <br /> 
 
-<p align="center">And yeah, thats pretty much it for now.</p>
+<p align="center">And yeah, thats pretty much it for now</p>
 <p align="center">Feel Free To Reach Out on any of the platforms below </p>
 
 <p align="center">
