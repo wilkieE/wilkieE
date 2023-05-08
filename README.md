@@ -16,7 +16,7 @@ My name is Ejiro and I am a Web/Mobile Developer. I have a passion for creating 
 
 ## My Stack 👩🏾‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilkiee&layout=compact)](https://github.com/wilkiee/github-readme-stats)
+[![Top Langs](https://github-readme-stats-wilkiee.vercel.app/api/top-langs/?username=wilkiee&layout=compact)](https://github.com/wilkiee/github-readme-stats)
 
 ## Other Tools 🔱
 
