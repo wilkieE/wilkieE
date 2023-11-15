@@ -2,7 +2,7 @@
 <h1 align='center'>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 My name is Ejiro and I am a Fullstack Web/Mobile Developer. I have a passion for creating innovative and efficient solutions to complex problems, and have always been drawn to the world of tech and software development.
 
-<p align='center'> React || Next.Js || Tailwind || Flutter || 🔨 🚀 🌕</p>
+<p align='center'> React || Next.Js ||Vue || Nuxt.Js || Tailwind || Flutter || 🔨 🚀 🌕</p>
 
 ## Who Am I?
 
